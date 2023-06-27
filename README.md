@@ -1,4 +1,4 @@
-# Temperature-Controlled Fan
+# Temperature Fan Controller
 
 ## Aim
 Design a temperature-controlled fan using ***`ATmega32`*** microcontroller, 
